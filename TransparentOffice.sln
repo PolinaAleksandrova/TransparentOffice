@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransparentOffice", "TransparentOffice\TransparentOffice.csproj", "{398D8FE2-1CD4-4599-9D56-C689C4416662}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{398D8FE2-1CD4-4599-9D56-C689C4416662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398D8FE2-1CD4-4599-9D56-C689C4416662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398D8FE2-1CD4-4599-9D56-C689C4416662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398D8FE2-1CD4-4599-9D56-C689C4416662}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAF589B4-9B56-450E-9F73-55D1D6D824B7}
+	EndGlobalSection
+EndGlobal
